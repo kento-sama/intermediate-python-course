@@ -1,0 +1,10 @@
+{
+    "age": 27,
+    "city": "Iligan City",
+    "hasChildren": false,
+    "name": "Mary",
+    "titles": [
+        "engineer",
+        "programmer"
+    ]
+}

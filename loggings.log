@@ -1,0 +1,7 @@
+2022-07-25 23:32:50,281 - CRITICAL - This is a critical message
+2022-07-25 23:32:50,281 - CRITICAL - There was an error with the user: Kent
+2022-07-25 23:32:50,281 - CRITICAL - Exception occured: 
+Traceback (most recent call last):
+  File "c:\Users\kytek\Documents\dev\IntermediatePythonCourse\loggings", line 24, in <module>
+    c = a / b
+ZeroDivisionError: division by zero

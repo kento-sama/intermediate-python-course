@@ -1,0 +1,17 @@
+{
+    "firstName": "Kent",
+    "lastName": "Pecorro",
+    "hobbies": ["Biking", "Reading", "Studying"],
+    "age" : 29,
+    "hasChildren": true,
+    "children": [
+        {
+            "name": "Jjamppong",
+            "age": 2
+        },
+        {
+            "name": "Shiro",
+            "age": 1
+        }
+    ]
+}
